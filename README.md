@@ -1,6 +1,7 @@
 <h1 align="center">
 <span>Detecting Hallucinations in Authentic LLM-Human Interactions</span>
 </h1>
+
 ![benchmark_process](assets/benchmark_comstruction_pipeline.png)
 **AuthenHallu** is a hallucination detection benchmark entirely grounded
 in authentic LLM–human interactions. This repository provides the full dataset and the accompanying experimental code.
